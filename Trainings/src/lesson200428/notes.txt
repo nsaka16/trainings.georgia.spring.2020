@@ -1,0 +1,4 @@
+
+
+Queue           ()-> { execute(task) }                task
+Thread ==>                             [ execute(task)     ]  [ task ]                         
