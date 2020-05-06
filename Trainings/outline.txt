@@ -1,40 +1,51 @@
 Our goal for the next 4-5 months
 
-- Algorithms & Data Structures
-- Biology & Genetics foundations
-- Git
-- OOAD Object-oriented Analysis & Design
-	- Principles
-	- Design Patterns
-	- Test Driven Development (TDD)
++  discussed online/in class
+-  to be learned
+*  for self-education
+#  will be repeated again
+@  home work
+
++/*/-/#  Algorithms & Data Structures
+*        Biology & Genetics foundations
+*/#      Git
+
++ OOAD Object-oriented Analysis & Design
+	+ Principles
+	+ Design Patterns
+	+ Test Driven Development (TDD)
 	- Refactoring
 - Java
-	- OOAD support features
+	+ OOAD support features
 	- Java 8 (lambda, streams, optional)
-	- Concurrency
+	+ Concurrency
 	- build tools (Maven/Gradle)
-	- Spring / Spring Boot
-- Python
+	* Spring / Spring Boot
+*/- Python
 	- OOAD support features
 	- (lambda, streams, optional)
 	- Concurrency
 	- build tools 
 	- frameworks: numpy, pandas, etc.
+
+(July/August)
 - Big Data trainings
 - Machine Learning trainings
 - Clouds (AWS, GCP)
 
-Next few weeks:
-- example of networking program (chat)
+Done in April
++ example of networking program (chat)
+@ snake
+
+Next few weeks (till May 22) 
+- assessments
 - refactoring theory
 - refactoring practice
-- battle tetris (or snake?)
-- Java lambda & streams
+- Java lambda & streams & optionals
 - Concurrency Workshop: increase performance of open source tools
-- Python (long-term)
-- build tools
+- build tools (Maven/Gradle)
 
-
+@ battle tetris 
 
 
 
