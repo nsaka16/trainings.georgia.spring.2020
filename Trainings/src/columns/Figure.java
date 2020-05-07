@@ -5,16 +5,16 @@ import java.util.*;
 
 
 class Figure {
-	static int x=Columns.Width/2+1, y=1, c[]=new int[4];
+	static int column=Columns.FIELD_WIDTH/2+1, row=1, colorsOfFigureBoxes[]=new int[4];
 	static Random r = new Random();
 
 	Figure()
 	{
-		x = Columns.Width/2+1;
-		y = 1;
-		c[0] = 0;
-		c[1] = (int)(Math.abs(r.nextInt())%7+1);
-		c[2] = (int)(Math.abs(r.nextInt())%7+1);
-		c[3] = (int)(Math.abs(r.nextInt())%7+1);
+		column = Columns.FIELD_WIDTH/2+1;
+		row = 1;
+		colorsOfFigureBoxes[0] = 0;
+		colorsOfFigureBoxes[1] = (int)(Math.abs(r.nextInt())%7+1);
+		colorsOfFigureBoxes[2] = (int)(Math.abs(r.nextInt())%7+1);
+		colorsOfFigureBoxes[3] = (int)(Math.abs(r.nextInt())%7+1);
 	}
 }
