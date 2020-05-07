@@ -146,6 +146,16 @@ Level       Score
   int[], int ->  int  BiFinction
   
   
+  2020-05-07
+  ----------
+  pomodoro  (25 minutes)
+  TDD cycle:  test -> code -> refactor -> git commit
+  
+  [                 < pomodoro >                          ]
+   [tcrg][tcrg][tcrg][tcrg][tcrg][tcrg][tcrg][tcrg][tcrg]
+  
+  
+  
   
   
   
